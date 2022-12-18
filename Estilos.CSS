@@ -1,0 +1,159 @@
+h3{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+.equipo img{
+    width: 500px;
+    border-radius: 1cm;
+    box-shadow: 20px 10px 5px rgb(156, 154, 154);
+    margin-left: 450px;
+}
+
+.bandera{
+    margin-right: 20px;
+    margin-left: 535px;
+}
+
+.bandera .color1{
+    background-color: black;
+    height: 40px;
+    width: 300px;
+}
+
+.bandera .color2{
+    background-color: rgb(151, 13, 13);
+    height: 40px;
+    width: 300px;
+}
+
+.bandera .color3{
+    background-color: rgb(255, 217, 0);
+    height: 40px;
+    width: 300px;
+}
+
+.caja{
+    background-color: rgb(48, 48, 48);
+    height: 400px;
+    width: 400px;
+    border-radius: 20px;
+    margin-left: 500px;
+    position: relative;
+}
+
+.caja .caja1{
+    background-color: red;
+    height: 100px;
+    width: 60px;
+    position: relative;
+    left: 50px;
+    top: 150px;
+}
+
+.caja .caja2{
+    background-color: white;
+    height: 200px;
+    width: 60px;
+    position: relative;
+    left: 150px;
+}
+
+.caja .caja3{
+    background-color: green;
+    height: 300px;
+    width: 60px;
+    position: relative;
+    left: 250px;
+    margin-top: -250px;
+}
+
+.Alemania{
+    margin-top: 25px;
+    margin-right: 20px;
+    margin-left: 300px;
+}
+
+.Alemania .col1{
+    background-color: black;
+    height: 40px;
+    width: 300px;
+}
+
+.Alemania .col2{
+    background-color: rgb(151, 13, 13);
+    height: 40px;
+    width: 300px;
+
+}
+
+.Alemania .col3{
+    background-color: rgb(255, 217, 0);
+    height: 40px;
+    width: 300px;
+}
+
+.Costa{
+    margin-top: -120px;
+    margin-right: 10px;
+    margin-left: 385px;
+}
+
+.Costa .dos{
+
+}
+
+.Costa .col1{
+    background-color: rgb(0, 3, 202);
+    height: 40px;
+    width: 300px;
+}
+
+.Costa .col2{
+    background-color: rgb(255, 255, 255);
+    height: 40px;
+    width: 300px;
+}
+
+.Costa .col3{
+    background-color: rgb(255, 0, 0);
+    height: 40px;
+    width: 300px;
+}
+
+.Costa .col4{
+    background-color: rgb(255, 255, 255);
+    height: 40px;
+    width: 300px;
+}
+
+.Costa .col5{
+    background-color: rgb(0, 15, 226);
+    height: 40px;
+    width: 300px;
+}
+
+.goles{
+    background-color: brown;
+    height: 90px;
+    width: 50%;
+    margin-left: 350px;
+    position: relative;
+}
+
+.goles2 img{
+    width: 90px;
+    position: absolute;
+    margin-left: 550px;
+    margin-top: -90px;
+}
+
+.goles3 img{
+    width: 90px;
+    position: absolute;
+    margin-left: 750px;
+    margin-top: -90px;
+}
